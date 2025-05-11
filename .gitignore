@@ -1,0 +1,7 @@
+backend/models/tire_classifier.h5
+backend/models/ensemble_weights_fixed.pkl
+backend/models/ensemble_weights.pkl
+backend/models/gb_model.pkl
+backend/models/rf_model.pkl
+backend/models/iso_forest.pkl
+backend/models/road_label_encoder.pkl
