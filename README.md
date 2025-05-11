@@ -1,4 +1,4 @@
-# tyre Lifespan Predictor
+# Tyre Lifespan Predictor
 
 The **tyre Lifespan Predictor** is a web application that predicts the expected lifespan of tyres based on image analysis and operational parameters. It uses a machine learning backend powered by Flask and TensorFlow, and a React-based frontend for user interaction.
 
